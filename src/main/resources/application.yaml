@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: demochat-backend-kotlin
+server:
+  port: 8080
